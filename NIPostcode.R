@@ -1,3 +1,4 @@
+#All csv files required for this analysis are stored in the same folder of R project
 #See the current working directory 
 getwd()
 ni_postcode <- read.csv("NIPostcodes.csv", header = FALSE)

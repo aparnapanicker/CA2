@@ -1,5 +1,6 @@
 #NI Crime Data
-
+#The zip folder was downloaded, unzipped and saved into the same folder of R project
+#The name of the unzipped folder is NI_Crime_Data
 #Step A
 #Viewing the current directory 
 getwd()
